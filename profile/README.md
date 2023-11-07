@@ -19,5 +19,5 @@ CodePlug Technologies uses a number of open source projects to work properly:
 - Flutter
 
 ## Our Product
-- http://bankstmtconverter.com
+- https://bankstmtconverter.com
 - https://pixalto.app
