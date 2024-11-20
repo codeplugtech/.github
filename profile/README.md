@@ -21,4 +21,4 @@ CodePlug Technologies uses a number of open source projects to work properly:
 ## Our Product
 - [https://bankstmtconverter.com](https://bankstmtconverter.com)
 - [https://pixalto.app](https://pixalto.app/)
-- [https://https://tableextract.ai/](https://tableextract.ai/)
+- [https://tableextract.ai/](https://tableextract.ai/)
